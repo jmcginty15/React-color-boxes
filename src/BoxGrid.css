@@ -1,0 +1,6 @@
+.BoxGrid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin: auto;
+    width: 600px;
+}
